@@ -21,6 +21,9 @@
   <ItemGroup>
     <ClInclude Include="Sales_item.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1_3.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{952C89EF-FAB6-442D-9C3C-1BD59FB93C68}</ProjectGuid>
