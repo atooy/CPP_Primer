@@ -1,3 +1,8 @@
-# 第一章 笔记
-1. 一个函数的定义包含四部分：返回类型、函数名、一个括号包围的形参列表（允许为空）以及函数体。
-2. 注意return语句末尾的分号。
+# Chapter 1 Notes
+1. a function definition has four elements: a return type, a function name, a (possibly empty) parameter list enclosed in parentheses, and a function body.
+2. Note the semicolon at the end of the return statement.
+3. Writing endl has the effect of ending the current line and flushing the buffer associated with that device. Flushing the buffer ensures that all tht output the program has generated so far is actually written to the output stream, rather than sitting in memory waiting to be written.
+
+# **Stop taking notes**
+
+# **First to read through C++ Primer (fifth edition)**
